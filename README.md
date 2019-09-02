@@ -1,6 +1,5 @@
-# groupsync
+# GroupSync
 ## Goal
-======
 A web app that allows groups to see what others are listening to in real time.
 
 ### Spotify + Fetch
